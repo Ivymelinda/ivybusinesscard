@@ -1,0 +1,27 @@
+.main {
+	margin-top: 30px;
+	background: light-pink;
+	display: flex;
+	margin-left: 100px;
+	margin-right: 100px;
+	width: 500px;
+	background: #F8DFDF;
+	border-radius: 30px;
+}
+
+.text {
+	margin-left: 50px;
+	margin-top: 12px;
+	justify-content: center;
+
+}
+
+.foto {
+	border-radius: 30px;
+}
+
+
+
+
+
+
